@@ -311,4 +311,4 @@ Analyze a set of AI-generated user stories, identify quality issues, and iterate
 Tomorrow, we'll bring everything together with real-life use cases and develop your personal strategy for integrating these techniques into your daily PM workflow!
 
 ---
-Up Next: [Day 5: Real-Life Use Cases and Prompt Strategy](05_use_cases/05_use_cases.md)
+Up Next: [Day 5: Real-Life Use Cases and Prompt Strategy](../05_use_cases/05_use_cases.md)

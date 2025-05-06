@@ -205,4 +205,4 @@ Before tomorrow's session:
 Tomorrow, we'll build on these foundations and learn more advanced prompting techniques that will give you even more control over LLM outputs.
 
 ---
-Up Next: [Day 2: Core Prompting Techniques for Clearer Results](02_core_techniques/02_core_techniques.md)
+Up Next: [Day 2: Core Prompting Techniques for Clearer Results](../02_core_techniques/02_core_techniques.md)

@@ -476,4 +476,4 @@ Remember that LLMs are tools to amplify your expertise as a Product Manager, not
 Thank you for completing this course! We hope these techniques help you thrive in the rapidly evolving world of AI-assisted product management.
 
 ---
-Up Next: [Bonus Module: AI Use – Ethically and Effectively](06_ethics/06_ethics.md)
+Up Next: [Bonus Module: AI Use – Ethically and Effectively](../06_ethics/06_ethics.md)

@@ -404,4 +404,4 @@ Tomorrow, we'll learn how to critically evaluate LLM outputs and refine our prom
 Considering sharing what you like or don't like about the course with me. It helps me improve it for future participants. Also, consider subscribing to my newsletter, [LLM Wire](https://substack.com/@llmwire), for updates on prompt engineering and related topics.
 
 ---
-Up Next: [Day 4: Evaluating and Iterating on LLM Output](04_evaluation/04_evaluation.md)
+Up Next: [Day 4: Evaluating and Iterating on LLM Output](../04_evaluation/04_evaluation.md)

@@ -355,4 +355,4 @@ Create three different versions of the implementation timeline for the Patient R
 Tomorrow, we'll build on these foundations with advanced prompting techniques that unlock even more powerful capabilities!
 
 ---
-Up Next: [Day 3: Advanced Prompting Techniques](03_advanced_techniques/03_advanced_techniques.md)
+Up Next: [Day 3: Advanced Prompting Techniques](../03_advanced_techniques/03_advanced_techniques.md)
